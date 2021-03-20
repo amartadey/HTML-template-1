@@ -207,7 +207,33 @@
 
 <!-- Banner Start -->
 <div class="home-slider">
-    
+    <div class="banner-container">
+      <img src="images/banner1.jpg">
+      <div class="desc">
+          <div class="container">
+              <h1><small>ZOE</small>healthy<strong>DRINKS</strong></h1>
+              <a href="#">EXPLORE NOW <i class="fal fa-long-arrow-right"></i></a>
+          </div>
+      </div>
+    </div>
+    <div class="banner-container">
+      <img src="images/banner2.jpg">
+      <div class="desc">
+          <div class="container">
+              <h1><small>ZOE</small>healthy<strong>DRINKS</strong></h1>
+              <a href="#">EXPLORE NOW <i class="fal fa-long-arrow-right"></i></a>
+          </div>
+      </div>
+    </div>
+    <div class="banner-container">
+      <img src="images/banner3.jpg">
+      <div class="desc">
+          <div class="container">
+              <h1><small>ZOE</small>healthy<strong>DRINKS</strong></h1>
+              <a href="#">EXPLORE NOW <i class="fal fa-long-arrow-right"></i></a>
+          </div>
+      </div>
+    </div>    
 </div>
 <!-- Banner End -->
 
@@ -321,6 +347,17 @@
                   }
                 }
               ]
+            });
+	//Banner
+            $('.home-slider').slick({
+              dots: false,
+              arrows: false,
+              autoplay: true,
+              autoplaySpeed: 5000,
+              fade: true,
+              infinite: true,
+              speed: 300,
+              slidesToShow: 1
             });
         });
     </script>
