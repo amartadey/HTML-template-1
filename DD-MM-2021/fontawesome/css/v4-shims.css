@@ -1,6 +1,7 @@
 /*!
- * Font Awesome Pro 6.0.0-beta1 by @fontawesome - https://fontawesome.com
+ * Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
+ * Copyright 2022 Fonticons, Inc.
  */
 .fa.fa-glass:before {
   content: "\f000"; }
@@ -10,23 +11,23 @@
   font-weight: 400; }
 
 .fa.fa-envelope-o:before {
-  content: "\2709"; }
+  content: "\f0e0"; }
 
 .fa.fa-star-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-star-o:before {
-  content: "\2b50"; }
+  content: "\f005"; }
 
 .fa.fa-remove:before {
-  content: "\d7"; }
+  content: "\f00d"; }
 
 .fa.fa-close:before {
-  content: "\d7"; }
+  content: "\f00d"; }
 
 .fa.fa-gear:before {
-  content: "\2699"; }
+  content: "\f013"; }
 
 .fa.fa-trash-o {
   font-family: 'Font Awesome 6 Pro';
@@ -36,21 +37,21 @@
   content: "\f2ed"; }
 
 .fa.fa-home:before {
-  content: "\1f3e0"; }
+  content: "\f015"; }
 
 .fa.fa-file-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-file-o:before {
-  content: "\1f4c4"; }
+  content: "\f15b"; }
 
 .fa.fa-clock-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-clock-o:before {
-  content: "\1f553"; }
+  content: "\f017"; }
 
 .fa.fa-arrow-circle-o-down {
   font-family: 'Font Awesome 6 Pro';
@@ -74,13 +75,13 @@
   content: "\f144"; }
 
 .fa.fa-repeat:before {
-  content: "\21bb"; }
+  content: "\f01e"; }
 
 .fa.fa-rotate-right:before {
-  content: "\21bb"; }
+  content: "\f01e"; }
 
 .fa.fa-refresh:before {
-  content: "\1f5d8"; }
+  content: "\f021"; }
 
 .fa.fa-list-alt {
   font-family: 'Font Awesome 6 Pro';
@@ -133,10 +134,6 @@
 .fa.fa-edit:before {
   content: "\f044"; }
 
-.fa.fa-share-square-o {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
 .fa.fa-share-square-o:before {
   content: "\f14d"; }
 
@@ -145,7 +142,7 @@
   font-weight: 400; }
 
 .fa.fa-check-square-o:before {
-  content: "\2611"; }
+  content: "\f14a"; }
 
 .fa.fa-arrows:before {
   content: "\f0b2"; }
@@ -182,30 +179,22 @@
   font-weight: 400; }
 
 .fa.fa-warning:before {
-  content: "\26a0"; }
+  content: "\f071"; }
 
 .fa.fa-calendar:before {
   content: "\f073"; }
 
 .fa.fa-arrows-v:before {
-  content: "\2195"; }
+  content: "\f338"; }
 
 .fa.fa-arrows-h:before {
-  content: "\2194"; }
-
-.fa.fa-bar-chart {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
+  content: "\f337"; }
 
 .fa.fa-bar-chart:before {
-  content: "\f080"; }
-
-.fa.fa-bar-chart-o {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
+  content: "\e0e3"; }
 
 .fa.fa-bar-chart-o:before {
-  content: "\f080"; }
+  content: "\e0e3"; }
 
 .fa.fa-twitter-square {
   font-family: 'Font Awesome 6 Brands';
@@ -223,21 +212,21 @@
   font-weight: 400; }
 
 .fa.fa-thumbs-o-up:before {
-  content: "\1f44d"; }
+  content: "\f164"; }
 
 .fa.fa-thumbs-o-down {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-thumbs-o-down:before {
-  content: "\1f44e"; }
+  content: "\f165"; }
 
 .fa.fa-heart-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-heart-o:before {
-  content: "\2665"; }
+  content: "\f004"; }
 
 .fa.fa-sign-out:before {
   content: "\f2f5"; }
@@ -250,7 +239,7 @@
   content: "\f08c"; }
 
 .fa.fa-thumb-tack:before {
-  content: "\1f4cc"; }
+  content: "\f08d"; }
 
 .fa.fa-external-link:before {
   content: "\f35d"; }
@@ -267,21 +256,21 @@
   font-weight: 400; }
 
 .fa.fa-lemon-o:before {
-  content: "\1f34b"; }
+  content: "\f094"; }
 
 .fa.fa-square-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-square-o:before {
-  content: "\25a0"; }
+  content: "\f0c8"; }
 
 .fa.fa-bookmark-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-bookmark-o:before {
-  content: "\1f516"; }
+  content: "\f02e"; }
 
 .fa.fa-twitter {
   font-family: 'Font Awesome 6 Brands';
@@ -317,7 +306,7 @@
   font-weight: 400; }
 
 .fa.fa-hdd-o:before {
-  content: "\1f5b4"; }
+  content: "\f0a0"; }
 
 .fa.fa-hand-o-right {
   font-family: 'Font Awesome 6 Pro';
@@ -338,7 +327,7 @@
   font-weight: 400; }
 
 .fa.fa-hand-o-up:before {
-  content: "\261d"; }
+  content: "\f0a6"; }
 
 .fa.fa-hand-o-down {
   font-family: 'Font Awesome 6 Pro';
@@ -347,6 +336,12 @@
 .fa.fa-hand-o-down:before {
   content: "\f0a7"; }
 
+.fa.fa-globe:before {
+  content: "\f57d"; }
+
+.fa.fa-tasks:before {
+  content: "\f828"; }
+
 .fa.fa-arrows-alt:before {
   content: "\f31e"; }
 
@@ -354,13 +349,10 @@
   content: "\f0c0"; }
 
 .fa.fa-chain:before {
-  content: "\1f517"; }
-
-.fa.fa-scissors:before {
-  content: "\2700"; }
+  content: "\f0c1"; }
 
 .fa.fa-cut:before {
-  content: "\2700"; }
+  content: "\f0c4"; }
 
 .fa.fa-files-o {
   font-family: 'Font Awesome 6 Pro';
@@ -374,20 +366,23 @@
   font-weight: 400; }
 
 .fa.fa-floppy-o:before {
-  content: "\1f4be"; }
+  content: "\f0c7"; }
 
 .fa.fa-save {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-save:before {
-  content: "\1f4be"; }
+  content: "\f0c7"; }
 
 .fa.fa-navicon:before {
   content: "\f0c9"; }
 
 .fa.fa-reorder:before {
   content: "\f0c9"; }
+
+.fa.fa-magic:before {
+  content: "\e2ca"; }
 
 .fa.fa-pinterest {
   font-family: 'Font Awesome 6 Brands';
@@ -407,10 +402,6 @@
 
 .fa.fa-google-plus:before {
   content: "\f0d5"; }
-
-.fa.fa-money {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
 
 .fa.fa-money:before {
   content: "\f3d1"; }
@@ -432,7 +423,7 @@
   content: "\f0e1"; }
 
 .fa.fa-rotate-left:before {
-  content: "\21ba"; }
+  content: "\f0e2"; }
 
 .fa.fa-legal:before {
   content: "\f0e3"; }
@@ -448,35 +439,27 @@
   font-weight: 400; }
 
 .fa.fa-comment-o:before {
-  content: "\1f5e9"; }
+  content: "\f075"; }
 
 .fa.fa-comments-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-comments-o:before {
-  content: "\1f5ea"; }
+  content: "\f086"; }
 
 .fa.fa-flash:before {
-  content: "\26a1"; }
+  content: "\f0e7"; }
 
-.fa.fa-clipboard {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
-.fa.fa-paste {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
-.fa.fa-paste:before {
-  content: "\1f4cb"; }
+.fa.fa-clipboard:before {
+  content: "\f0ea"; }
 
 .fa.fa-lightbulb-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-lightbulb-o:before {
-  content: "\1f4a1"; }
+  content: "\f0eb"; }
 
 .fa.fa-exchange:before {
   content: "\f362"; }
@@ -492,31 +475,31 @@
   font-weight: 400; }
 
 .fa.fa-bell-o:before {
-  content: "\1f514"; }
+  content: "\f0f3"; }
 
 .fa.fa-cutlery:before {
-  content: "\1f374"; }
+  content: "\f2e7"; }
 
 .fa.fa-file-text-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-file-text-o:before {
-  content: "\1f5b9"; }
+  content: "\f15c"; }
 
 .fa.fa-building-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-building-o:before {
-  content: "\1f3e2"; }
+  content: "\f1ad"; }
 
 .fa.fa-hospital-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-hospital-o:before {
-  content: "\1f3e5"; }
+  content: "\f0f8"; }
 
 .fa.fa-tablet:before {
   content: "\f3fa"; }
@@ -532,7 +515,7 @@
   font-weight: 400; }
 
 .fa.fa-circle-o:before {
-  content: "\25cf"; }
+  content: "\f111"; }
 
 .fa.fa-mail-reply:before {
   content: "\f3e5"; }
@@ -546,49 +529,49 @@
   font-weight: 400; }
 
 .fa.fa-folder-o:before {
-  content: "\1f4c1"; }
+  content: "\f07b"; }
 
 .fa.fa-folder-open-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-folder-open-o:before {
-  content: "\1f4c2"; }
+  content: "\f07c"; }
 
 .fa.fa-smile-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-smile-o:before {
-  content: "\1f642"; }
+  content: "\f118"; }
 
 .fa.fa-frown-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-frown-o:before {
-  content: "\2639"; }
+  content: "\f119"; }
 
 .fa.fa-meh-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-meh-o:before {
-  content: "\1f610"; }
+  content: "\f11a"; }
 
 .fa.fa-keyboard-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-keyboard-o:before {
-  content: "\2328"; }
+  content: "\f11c"; }
 
 .fa.fa-flag-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-flag-o:before {
-  content: "\1f3f4"; }
+  content: "\f024"; }
 
 .fa.fa-mail-reply-all:before {
   content: "\f122"; }
@@ -598,21 +581,21 @@
   font-weight: 400; }
 
 .fa.fa-star-half-o:before {
-  content: "\f089"; }
+  content: "\f5c0"; }
 
 .fa.fa-star-half-empty {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-star-half-empty:before {
-  content: "\f089"; }
+  content: "\f5c0"; }
 
 .fa.fa-star-half-full {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-star-half-full:before {
-  content: "\f089"; }
+  content: "\f5c0"; }
 
 .fa.fa-code-fork:before {
   content: "\f126"; }
@@ -623,15 +606,12 @@
 .fa.fa-unlink:before {
   content: "\f127"; }
 
-.fa.fa-shield:before {
-  content: "\f3ed"; }
-
 .fa.fa-calendar-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-calendar-o:before {
-  content: "\1f4c5"; }
+  content: "\f133"; }
 
 .fa.fa-maxcdn {
   font-family: 'Font Awesome 6 Brands';
@@ -645,8 +625,8 @@
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
 
-.fa.fa-ticket:before {
-  content: "\f3ff"; }
+.fa.fa-unlock-alt:before {
+  content: "\f09c"; }
 
 .fa.fa-minus-square-o {
   font-family: 'Font Awesome 6 Pro';
@@ -656,16 +636,16 @@
   content: "\f146"; }
 
 .fa.fa-level-up:before {
-  content: "\2934"; }
+  content: "\f3bf"; }
 
 .fa.fa-level-down:before {
-  content: "\2935"; }
+  content: "\f3be"; }
 
 .fa.fa-pencil-square:before {
   content: "\f14b"; }
 
 .fa.fa-external-link-square:before {
-  content: "\2197"; }
+  content: "\f360"; }
 
 .fa.fa-compass {
   font-family: 'Font Awesome 6 Pro';
@@ -714,13 +694,13 @@
   content: "\f152"; }
 
 .fa.fa-eur:before {
-  content: "\20ac"; }
+  content: "\f153"; }
 
 .fa.fa-euro:before {
-  content: "\20ac"; }
+  content: "\f153"; }
 
 .fa.fa-gbp:before {
-  content: "\a3"; }
+  content: "\f154"; }
 
 .fa.fa-usd:before {
   content: "\24"; }
@@ -729,37 +709,37 @@
   content: "\24"; }
 
 .fa.fa-inr:before {
-  content: "\20a8"; }
+  content: "\e1bc"; }
 
 .fa.fa-rupee:before {
-  content: "\20a8"; }
+  content: "\e1bc"; }
 
 .fa.fa-jpy:before {
-  content: "\a5"; }
+  content: "\f157"; }
 
 .fa.fa-cny:before {
-  content: "\a5"; }
+  content: "\f157"; }
 
 .fa.fa-rmb:before {
-  content: "\a5"; }
+  content: "\f157"; }
 
 .fa.fa-yen:before {
-  content: "\a5"; }
+  content: "\f157"; }
 
 .fa.fa-rub:before {
-  content: "\20bd"; }
+  content: "\f158"; }
 
 .fa.fa-ruble:before {
-  content: "\20bd"; }
+  content: "\f158"; }
 
 .fa.fa-rouble:before {
-  content: "\20bd"; }
+  content: "\f158"; }
 
 .fa.fa-krw:before {
-  content: "\20a9"; }
+  content: "\f159"; }
 
 .fa.fa-won:before {
-  content: "\20a9"; }
+  content: "\f159"; }
 
 .fa.fa-btc {
   font-family: 'Font Awesome 6 Brands';
@@ -773,7 +753,7 @@
   content: "\f15a"; }
 
 .fa.fa-file-text:before {
-  content: "\1f5b9"; }
+  content: "\f15c"; }
 
 .fa.fa-sort-alpha-asc:before {
   content: "\f15d"; }
@@ -782,10 +762,10 @@
   content: "\f881"; }
 
 .fa.fa-sort-amount-asc:before {
-  content: "\f160"; }
+  content: "\f884"; }
 
 .fa.fa-sort-amount-desc:before {
-  content: "\f884"; }
+  content: "\f160"; }
 
 .fa.fa-sort-numeric-asc:before {
   content: "\f162"; }
@@ -915,14 +895,14 @@
   font-weight: 400; }
 
 .fa.fa-sun-o:before {
-  content: "\2600"; }
+  content: "\f185"; }
 
 .fa.fa-moon-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-moon-o:before {
-  content: "\23fe"; }
+  content: "\f186"; }
 
 .fa.fa-vk {
   font-family: 'Font Awesome 6 Brands';
@@ -977,17 +957,17 @@
   font-weight: 400; }
 
 .fa.fa-dot-circle-o:before {
-  content: "\1f518"; }
+  content: "\f192"; }
 
 .fa.fa-vimeo-square {
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
 
 .fa.fa-try:before {
-  content: "\20a4"; }
+  content: "\e2bb"; }
 
 .fa.fa-turkish-lira:before {
-  content: "\20a4"; }
+  content: "\e2bb"; }
 
 .fa.fa-plus-square-o {
   font-family: 'Font Awesome 6 Pro';
@@ -1015,7 +995,7 @@
   content: "\f19c"; }
 
 .fa.fa-mortar-board:before {
-  content: "\1f393"; }
+  content: "\f19d"; }
 
 .fa.fa-yahoo {
   font-family: 'Font Awesome 6 Brands';
@@ -1065,9 +1045,6 @@
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
 
-.fa.fa-spoon:before {
-  content: "\1f944"; }
-
 .fa.fa-behance {
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
@@ -1085,10 +1062,10 @@
   font-weight: 400; }
 
 .fa.fa-automobile:before {
-  content: "\1f698"; }
+  content: "\f1b9"; }
 
 .fa.fa-cab:before {
-  content: "\1f696"; }
+  content: "\f1ba"; }
 
 .fa.fa-spotify {
   font-family: 'Font Awesome 6 Brands';
@@ -1135,21 +1112,21 @@
   font-weight: 400; }
 
 .fa.fa-file-image-o:before {
-  content: "\1f5bb"; }
+  content: "\f1c5"; }
 
 .fa.fa-file-photo-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-file-photo-o:before {
-  content: "\1f5bb"; }
+  content: "\f1c5"; }
 
 .fa.fa-file-picture-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-file-picture-o:before {
-  content: "\1f5bb"; }
+  content: "\f1c5"; }
 
 .fa.fa-file-archive-o {
   font-family: 'Font Awesome 6 Pro';
@@ -1212,34 +1189,14 @@
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
 
-.fa.fa-life-ring {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
-.fa.fa-life-bouy {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
 .fa.fa-life-bouy:before {
   content: "\f1cd"; }
-
-.fa.fa-life-buoy {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
 
 .fa.fa-life-buoy:before {
   content: "\f1cd"; }
 
-.fa.fa-life-saver {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
 .fa.fa-life-saver:before {
   content: "\f1cd"; }
-
-.fa.fa-support {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
 
 .fa.fa-support:before {
   content: "\f1cd"; }
@@ -1343,27 +1300,24 @@
   font-weight: 400; }
 
 .fa.fa-circle-thin:before {
-  content: "\25cf"; }
+  content: "\f111"; }
 
 .fa.fa-header:before {
   content: "\f1dc"; }
-
-.fa.fa-sliders:before {
-  content: "\f1de"; }
 
 .fa.fa-futbol-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-futbol-o:before {
-  content: "\26bd"; }
+  content: "\f1e3"; }
 
 .fa.fa-soccer-ball-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-soccer-ball-o:before {
-  content: "\26bd"; }
+  content: "\f1e3"; }
 
 .fa.fa-slideshare {
   font-family: 'Font Awesome 6 Brands';
@@ -1382,7 +1336,7 @@
   font-weight: 400; }
 
 .fa.fa-newspaper-o:before {
-  content: "\1f4f0"; }
+  content: "\f1ea"; }
 
 .fa.fa-paypal {
   font-family: 'Font Awesome 6 Brands';
@@ -1421,7 +1375,7 @@
   font-weight: 400; }
 
 .fa.fa-bell-slash-o:before {
-  content: "\1f515"; }
+  content: "\f1f6"; }
 
 .fa.fa-trash:before {
   content: "\f2ed"; }
@@ -1466,20 +1420,13 @@
   content: "\f20a"; }
 
 .fa.fa-ils:before {
-  content: "\20aa"; }
+  content: "\f20b"; }
 
 .fa.fa-shekel:before {
-  content: "\20aa"; }
+  content: "\f20b"; }
 
 .fa.fa-sheqel:before {
-  content: "\20aa"; }
-
-.fa.fa-meanpath {
-  font-family: 'Font Awesome 6 Brands';
-  font-weight: 400; }
-
-.fa.fa-meanpath:before {
-  content: "\f2b4"; }
+  content: "\f20b"; }
 
 .fa.fa-buysellads {
   font-family: 'Font Awesome 6 Brands';
@@ -1522,13 +1469,16 @@
   font-weight: 400; }
 
 .fa.fa-diamond:before {
-  content: "\1f48e"; }
+  content: "\f3a5"; }
+
+.fa.fa-transgender:before {
+  content: "\f224"; }
 
 .fa.fa-intersex:before {
-  content: "\26a7"; }
+  content: "\f224"; }
 
 .fa.fa-transgender-alt:before {
-  content: "\26a7"; }
+  content: "\f225"; }
 
 .fa.fa-facebook-official {
   font-family: 'Font Awesome 6 Brands';
@@ -1546,7 +1496,7 @@
   font-weight: 400; }
 
 .fa.fa-hotel:before {
-  content: "\1f6cc"; }
+  content: "\f236"; }
 
 .fa.fa-viacoin {
   font-family: 'Font Awesome 6 Brands';
@@ -1580,10 +1530,10 @@
   font-weight: 400; }
 
 .fa.fa-battery-4:before {
-  content: "\1f50b"; }
+  content: "\f240"; }
 
 .fa.fa-battery:before {
-  content: "\1f50b"; }
+  content: "\f240"; }
 
 .fa.fa-battery-3:before {
   content: "\f241"; }
@@ -1624,21 +1574,20 @@
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
-.fa.fa-hourglass-o {
-  font-family: 'Font Awesome 6 Pro';
-  font-weight: 400; }
-
 .fa.fa-hourglass-o:before {
-  content: "\23f3"; }
+  content: "\f252"; }
 
 .fa.fa-hourglass-1:before {
   content: "\f251"; }
 
+.fa.fa-hourglass-half:before {
+  content: "\f254"; }
+
 .fa.fa-hourglass-2:before {
-  content: "\23f3"; }
+  content: "\f254"; }
 
 .fa.fa-hourglass-3:before {
-  content: "\231b"; }
+  content: "\f253"; }
 
 .fa.fa-hand-rock-o {
   font-family: 'Font Awesome 6 Pro';
@@ -1659,14 +1608,14 @@
   font-weight: 400; }
 
 .fa.fa-hand-paper-o:before {
-  content: "\270b"; }
+  content: "\f256"; }
 
 .fa.fa-hand-stop-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-hand-stop-o:before {
-  content: "\270b"; }
+  content: "\f256"; }
 
 .fa.fa-hand-scissors-o {
   font-family: 'Font Awesome 6 Pro';
@@ -1687,7 +1636,7 @@
   font-weight: 400; }
 
 .fa.fa-hand-spock-o:before {
-  content: "\1f596"; }
+  content: "\f259"; }
 
 .fa.fa-hand-pointer-o {
   font-family: 'Font Awesome 6 Pro';
@@ -1701,7 +1650,7 @@
   font-weight: 400; }
 
 .fa.fa-hand-peace-o:before {
-  content: "\270c"; }
+  content: "\f25b"; }
 
 .fa.fa-registered {
   font-family: 'Font Awesome 6 Pro';
@@ -1716,10 +1665,6 @@
   font-weight: 400; }
 
 .fa.fa-gg-circle {
-  font-family: 'Font Awesome 6 Brands';
-  font-weight: 400; }
-
-.fa.fa-tripadvisor {
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
 
@@ -1807,17 +1752,17 @@
   font-weight: 400; }
 
 .fa.fa-map-o:before {
-  content: "\1f5fa"; }
+  content: "\f279"; }
 
 .fa.fa-commenting:before {
-  content: "\1f4ac"; }
+  content: "\f4ad"; }
 
 .fa.fa-commenting-o {
   font-family: 'Font Awesome 6 Pro';
   font-weight: 400; }
 
 .fa.fa-commenting-o:before {
-  content: "\1f4ac"; }
+  content: "\f4ad"; }
 
 .fa.fa-houzz {
   font-family: 'Font Awesome 6 Brands';
@@ -1847,7 +1792,7 @@
   font-weight: 400; }
 
 .fa.fa-credit-card-alt:before {
-  content: "\1f4b3"; }
+  content: "\f09d"; }
 
 .fa.fa-codiepie {
   font-family: 'Font Awesome 6 Brands';
@@ -2070,7 +2015,7 @@
   font-weight: 400; }
 
 .fa.fa-user-o:before {
-  content: "\1f464"; }
+  content: "\f007"; }
 
 .fa.fa-id-badge {
   font-family: 'Font Awesome 6 Pro';
@@ -2115,7 +2060,7 @@
   content: "\f2c8"; }
 
 .fa.fa-thermometer-2:before {
-  content: "\1f321"; }
+  content: "\f2c9"; }
 
 .fa.fa-thermometer-1:before {
   content: "\f2ca"; }
@@ -2124,10 +2069,10 @@
   content: "\f2cb"; }
 
 .fa.fa-bathtub:before {
-  content: "\1f6c1"; }
+  content: "\f2cd"; }
 
 .fa.fa-s15:before {
-  content: "\1f6c1"; }
+  content: "\f2cd"; }
 
 .fa.fa-window-maximize {
   font-family: 'Font Awesome 6 Pro';
@@ -2186,7 +2131,7 @@
   font-weight: 400; }
 
 .fa.fa-snowflake-o:before {
-  content: "\2744"; }
+  content: "\f2dc"; }
 
 .fa.fa-superpowers {
   font-family: 'Font Awesome 6 Brands';
